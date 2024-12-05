@@ -1,0 +1,43 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SelectionSort 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'SelectionSort 1.0 API'
+ioc.xtec.cat.selectionsort
+/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/src/main/java = 1732436948000
+/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/allclasses-index.html = 1733421759391
+/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/type-search-index.js = 1733421759476
+/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/index.html = 1733421759662
+/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/allpackages-index.html = 1733421759432
+/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/module-search-index.js = 1733421759467
+/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/member-search-index.js = 1733421759481
+/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/overview-tree.html = 1733421759252
+/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/search.html = 1733421759618
+/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/package-search-index.js = 1733421759474
+/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/index-all.html = 1733421759597
+/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/tag-search-index.js = 1733421759482
+/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/element-list = 1733421758672
+/home/berta/Documents/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/help-doc.html = 1733421759827
