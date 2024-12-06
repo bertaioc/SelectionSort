@@ -1,6 +1,6 @@
 /**
  * Autor: Berta Álvarez
- * Versió: 1.0
+ * Versió: 1.1
  * Descripció: Aquesta classe conté el punt d'entrada principal per executar el programa.
  */
 package ioc.xtec.cat.selectionsort;
@@ -15,6 +15,11 @@ public class Main {
      * @param args Arguments de la línia de comandaments (no utilitzats).
      */
     public static void main(String[] args) {
+        // Mostra el missatge de presentació
+        System.out.println("Hola, em dic Berta Álvarez! M'està agradant M08 encara "
+                + "que he perdut molt de temps amb m.");
+        System.out.println();
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Introdueix la mida de l'array: ");
